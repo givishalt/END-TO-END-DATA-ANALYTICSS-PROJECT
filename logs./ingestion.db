@@ -1,1 +1,7 @@
-
+2026-03-29 15:36:18,594 - INFO-Ingesting begin_inventory.csv in db
+2026-03-29 15:36:24,243 - INFO-Ingesting end_inventory.csv in db
+2026-03-29 15:36:45,270 - INFO-Ingesting purchases.csv in db
+2026-03-29 15:38:39,679 - INFO-Ingesting purchase_prices.csv in db
+2026-03-29 15:39:32,957 - INFO-Ingesting sales.csv in db
+2026-03-29 16:17:57,665 - INFO-Ingesting vendor_invoice.csv in db
+2026-03-29 16:17:57,963 - INFO-Ingestion Completed
