@@ -5,6 +5,9 @@ An end-to-end data analytics pipeline built on inventory and vendor sales data.
 Covers data ingestion, cleaning, exploratory data analysis, statistical testing
 and a Vendor Sales Performance Dashboard in Power BI.
 
+<img width="961" height="560" alt="Screenshot 2026-04-30 133933" src="https://github.com/user-attachments/assets/5404c688-189e-48e6-9999-1db889bd1aee" />
+
+
 ## Tech Stack
 | Tool | Purpose |
 |------|---------|
